@@ -1,2 +1,0 @@
-# HolmesVAU
-Vedio Anomaly Understanding
